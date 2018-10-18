@@ -1,4 +1,10 @@
+
+<<<<<<< HEAD
 Lucas Santos
 Hello World
 dlroW olleH
 Um comuna esteve aqui
+=======
+Bay World
+Viva ao C O M U N I S M O   ! ! !
+>>>>>>> fd40c5013ba2fe0138d91fb6ab07db23b41e6c9f
